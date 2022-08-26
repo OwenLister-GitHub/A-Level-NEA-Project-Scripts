@@ -7,4 +7,7 @@ of any errors or problems I encountered while developing the game, design decisi
 development, tesing and evaluation phases, success criteria for my game (so I could measure my success and break my game down into it's core elements) and
 some other elements of documentation.
 
+Each script is well-commented and details the purpose of the script at the top (the session information also detailed at the top is in reference to my documentation,
+and when I created and last edited the script).  
+
 Thank you for looking at my repository
